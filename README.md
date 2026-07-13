@@ -201,12 +201,26 @@ galamsey-impact-tracker/
 
 ---
 
-## 👩🏾‍💻 About This Project
+## 👩🏾‍💻 About The Author
 
-This is the Phase 2 SQL and Databases capstone of my self-created AI/ML learning roadmap. I'm Benedicta Bondzie (The Tech Diva), documenting my transition from Junior to Intermediate AI/ML Engineer in 2026, one real project at a time.
+This project is the **Phase 2 SQL capstone** of my AI/ML roadmap, combining
+relational database design, exploratory data analysis, and real-world storytelling
+around a crisis that is affecting millions of Ghanaians. 
 
-- 🔗 Follow the full journey on [LinkedIn](https://www.linkedin.com/in/benedicta-bondzie-the-tech-diva/)
-- 📬 Get resources and roadmaps first on my [WhatsApp channel](https://www.whatsapp.com/channel/0029VbBL8H8Elagyfxqfxg2I)
+I'm Benedicta Bondzie (The Tech Diva), documenting my transition from Junior to Intermediate AI/ML Engineer in 2026, one real project at a time.
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedicta-bondzie-the-tech-diva/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBL8H8Elagyfxqfxg2I)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@techdiva01)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DivaInTech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techdiva01)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techdivachronicles)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/R4E5YUQKTWDFG1)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@thetechdiva)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/benedictabondzie)
+
 
 ---
 
