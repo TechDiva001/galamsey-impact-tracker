@@ -185,7 +185,7 @@ Run all cells from top to bottom. The notebook builds the SQLite database from s
 galamsey-impact-tracker/
 │
 ├── Galamsey_Impact_Tracker.ipynb    # Main analysis notebook
-├── galamsey_tracker.db              # SQLite database (generated on run)
+├── galamsey.db              # SQLite database (generated on run)
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # This file
 ```
